@@ -51,15 +51,15 @@
 
   "outbounds": [
     { "tag": "🚀 节点选择", "type": "selector", "outbounds": ["🔯 日本自动","🔯 狮城自动","🇸🇬 狮城节点", "🇯🇵 日本节点","🇭🇰 香港节点","🇺🇲 美国节点", "🐸 手动切换", "♻️ 自动选择", "🎯 全球直连"] },
-    { "tag": "📹 YouTube", "type": "selector", "outbounds": ["🚀 节点选择", "♻️ 自动选择", "🇸🇬 狮城节点", "🇯🇵 日本节点","🇭🇰 香港节点","🇺🇲 美国节点", "🐸 手动切换"] },
-    { "tag": "🍀 Google", "type": "selector", "outbounds": ["🚀 节点选择", "♻️ 自动选择", "🇸🇬 狮城节点", "🇯🇵 日本节点","🇭🇰 香港节点","🇺🇲 美国节点", "🐸 手动切换"] },
+    { "tag": "📹 YouTube", "type": "selector", "outbounds": ["🔯 日本自动","🔯 狮城自动","🚀 节点选择", "♻️ 自动选择", "🇸🇬 狮城节点", "🇯🇵 日本节点","🇭🇰 香港节点","🇺🇲 美国节点", "🐸 手动切换"] },
+    { "tag": "🍀 Google", "type": "selector", "outbounds": ["🔯 日本自动","🔯 狮城自动","🚀 节点选择", "♻️ 自动选择", "🇸🇬 狮城节点", "🇯🇵 日本节点","🇭🇰 香港节点","🇺🇲 美国节点", "🐸 手动切换"] },
     { "tag": "👨‍💻 Github", "type": "selector", "outbounds": ["🚀 节点选择", "♻️ 自动选择", "🇸🇬 狮城节点", "🇯🇵 日本节点","🇭🇰 香港节点","🇺🇲 美国节点", "🐸 手动切换"] },
     { "tag": "🎮 Steam", "type": "selector", "outbounds": ["🚀 节点选择", "♻️ 自动选择", "🇸🇬 狮城节点", "🇯🇵 日本节点","🇭🇰 香港节点","🇺🇲 美国节点", "🐸 手动切换"] },
     { "tag": "🧼 Microsoft", "type": "selector", "outbounds": ["🚀 节点选择", "♻️ 自动选择", "🇸🇬 狮城节点", "🇯🇵 日本节点","🇭🇰 香港节点","🇺🇲 美国节点", "🎯 全球直连"] },
     { "tag": "🐬 OneDrive", "type": "selector", "outbounds": ["🚀 节点选择", "♻️ 自动选择", "🇸🇬 狮城节点", "🇯🇵 日本节点","🇭🇰 香港节点","🇺🇲 美国节点", "🐸 手动切换"] },
     { "tag": "🎥 Netflix", "type": "selector", "outbounds": ["🚀 节点选择", "♻️ 自动选择", "🇸🇬 狮城节点", "🇯🇵 日本节点","🇭🇰 香港节点","🇺🇲 美国节点", "🐸 手动切换"] },
     { "tag": "📲 Telegram", "type": "selector", "outbounds": ["🚀 节点选择", "♻️ 自动选择", "🇸🇬 狮城节点", "🇯🇵 日本节点","🇭🇰 香港节点","🇺🇲 美国节点", "🐸 手动切换"] },
-    { "tag": "🐠 漏网之鱼", "type": "selector", "outbounds": ["🚀 节点选择","🎯 全球直连"] },
+    { "tag": "🐠 漏网之鱼", "type": "selector", "outbounds": ["🔯 日本自动","🔯 狮城自动","🚀 节点选择","🎯 全球直连"] },
     { "tag": "🐸 手动切换", "type": "selector", "outbounds": ["{all}"]},
     { "tag": "🇸🇬 狮城节点", "type": "selector", "outbounds": ["{all}"], "filter": [{ "action": "include", "keywords": ["新加坡|坡|狮城|SG|Singapore"] }, { "action": "exclude", "keywords": ["台|日|韩|深|美|三"] }] },
     { "tag": "🇭🇰 香港节点", "type": "selector", "outbounds": ["{all}"], "filter": [{ "action": "include", "keywords": ["🇭🇰|HK|hk|香港|港|HongKong"] }, { "action": "exclude", "keywords": ["台|日|韩|新|深|美|三"] }] },
