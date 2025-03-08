@@ -39,7 +39,7 @@ bash <(curl -sL https://ghfast.top/https://raw.githubusercontent.com/qljsyph/DPI
 
 ### 稳定版(1.11)：  
 tproxy：  
-https://ghfast.top/https://raw.githubusercontent.com/qichiyuhub/sbshell/refs/heads/master/config_template/config_tproxy.json  
+https://ghfast.top/https://raw.githubusercontent.com/zh15933/sbshell/refs/heads/master/config_template/config_tproxy.json  
 
 tun：  
 https://ghfast.top/https://raw.githubusercontent.com/qichiyuhub/sbshell/refs/heads/master/config_template/config_tun.json  
