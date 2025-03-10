@@ -85,6 +85,7 @@
      {"clash_mode": "global", "outbound": "GLOBAL"},
      {"domain": ["clash.razord.top", "yacd.metacubex.one", "yacd.haishan.me", "d.metacubex.one"], "outbound": "🎯 全球直连"},
      {"domain_keyword":"steamtools", "outbound": "🎯 全球直连"},
+     {"domain_keyword":"javdb", "outbound": "🔯 狮城自动"},
      {"rule_set": "geosite-private", "outbound": "🎯 全球直连"},
      {"rule_set": "geosite-youtube", "outbound": "📹 YouTube"},
      {"rule_set": "geosite-github", "outbound": "👨‍💻 Github"},
